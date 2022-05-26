@@ -23,7 +23,7 @@ Scrapy==2.2.0
 service-identity==18.1.0
 setuptools==45.2.0
 six==1.15.0
-Twisted==20.3.0
+Twisted==22.4.0
 w3lib==1.22.0
 wheel==0.34.2
 zope.interface==5.1.0
